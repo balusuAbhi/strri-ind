@@ -11,10 +11,10 @@ export function Footer() {
             <div className="flex items-center space-x-3 mb-4">
               <img
                 src={logo}
-                alt="Sri Tarakarama Rice Industries"
+                alt="Taraka Group"
                 className="h-10 w-auto"
               />
-              <h3 className="text-xl font-serif font-bold text-white">Sri Tarakarama Rice Industries</h3>
+              <h3 className="text-xl font-serif font-bold text-white">Taraka Group</h3>
             </div>
             <p className="text-white/90 text-sm leading-relaxed">
               Premium quality rice processing with 25 years of excellence and trust.
@@ -97,7 +97,7 @@ export function Footer() {
 
         <div className="border-t border-white/20 mt-8 pt-8 text-center">
           <p className="text-white/70 text-sm">
-            &copy; {new Date().getFullYear()} Sri Tarakarama Rice Industries. All rights reserved.
+            &copy; {new Date().getFullYear()} Taraka Group. All rights reserved.
           </p>
         </div>
       </div>

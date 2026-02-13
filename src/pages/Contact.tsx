@@ -245,7 +245,7 @@ export function Contact() {
                 allowFullScreen
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
-                title="Sri Tarakarama Rice Industries Location"
+                title="Taraka Group Location"
               />
               
             </div>

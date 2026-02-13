@@ -59,7 +59,7 @@ export function About() {
             </h2>
             <div className="space-y-4 text-lg text-harvest-brown/80 dark:text-gray-300 leading-relaxed">
               <p>
-                Founded in 1990, Sri Tarakarama Rice Industries began as a modest family operation with a simple vision:
+                Founded in 1990, Taraka Group began as a modest family operation with a simple vision:
                 to deliver the finest quality rice by honoring both the grain and the farmers who cultivate it.
                 Today, we stand as one of the region's most trusted rice processors, supplying premium varieties
                 to distributors, exporters, and retailers across multiple continents.

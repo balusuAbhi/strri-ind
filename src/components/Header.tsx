@@ -25,11 +25,11 @@ export function Header() {
           <Link to="/" className="flex items-center space-x-3 group">
             <img
               src={logo}
-              alt="Sri Tarakarama Rice Industries"
+              alt="Taraka Group"
               className="h-12 w-auto group-hover:scale-105 transition-transform"
             />
             <h1 className="text-2xl font-serif font-bold text-harvest-primary dark:text-harvest-cream hidden sm:block">
-              Sri Tarakarama Rice Industries
+              Taraka Group
             </h1>
           </Link>
 
